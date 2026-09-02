@@ -1,6 +1,6 @@
 # Hi, I'm Farhad 👋
 
-### CSE Undergraduate | Exploring Software Engineering, Web Development & Data Science
+### CSE Undergraduate | Learning, Building & Exploring Technology
 
 I'm a Computer Science & Engineering student who enjoys learning by building, experimenting, and solving problems.
 
@@ -66,9 +66,7 @@ I believe consistent practice and real projects are the best ways to grow as a d
 
 ## 🤝 Connect With Me
 
-- GitHub: **@farhad1molla1**
-- LinkedIn: *www.linkedin.com/in/md-farhad-molla*
-
+[LinkedIn](https://www.linkedin.com/in/md-farhad-molla/)
 ---
 
 ⭐ **Building myself and my skills, one project at a time.**
