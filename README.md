@@ -1,72 +1,83 @@
 # Hi, I'm Farhad 👋
 
-### CSE Undergraduate | Learning, Building & Exploring Technology
+### CSE Undergraduate | Learning & Building
 
-I'm a Computer Science & Engineering student who enjoys learning by building, experimenting, and solving problems.
+I'm a Computer Science & Engineering student who enjoys learning through practice, projects, and experimentation.
 
-Currently, I'm strengthening my programming fundamentals and gradually exploring different areas of software development.
+Currently, I'm strengthening my programming fundamentals and exploring software development step by step.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Studying Computer Science & Engineering
-- 💻 Building strong foundations in programming and software development
-- 🌱 Currently learning C, Web Development, Git & GitHub
-- 🧠 Interested in Software Engineering and Data Science
-- 🛠️ I enjoy turning ideas into practical projects
-- 📚 Continuously learning through projects, practice, and experimentation
+* 🎓 Computer Science & Engineering Undergraduate
+* 💻 Building strong foundations in programming
+* 🔵 Currently practicing **C**
+* 🐍 Currently learning **Python**
+* 🌐 Learning **HTML & CSS**
+* 🔧 Learning and using **Git & GitHub**
+* 🧠 Interested in **Software Engineering and Data Science**
+* 🛠️ Enjoy building projects and learning from them
 
 ---
 
-## 🛠️ Technologies I'm Working With
+## 🛠️ Technologies & Tools
 
 ### Programming
-![C](https://img.shields.io/badge/C-Programming-00599C?style=flat&logo=c&logoColor=white)
+
+![C](https://img.shields.io/badge/C-Programming-00599C?style=flat\&logo=c\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Programming-3776AB?style=flat\&logo=python\&logoColor=white)
 
 ### Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
 ## 🎯 Current Focus
 
-- C Programming & Problem Solving
-- Git & GitHub
-- HTML & CSS
-- JavaScript fundamentals
-- Software Engineering foundations
-- Building practical projects
+* C Programming & Problem Solving
+* Python Programming
+* HTML & CSS
+* Git & GitHub
+* Programming Fundamentals
+* Building Practical Projects
 
 ---
 
-## 📌 Featured Work
+## 📌 Projects
 
 ### 🍱 StudyLunch
-A project I'm developing while improving my practical software development skills.
 
-More projects are coming as I continue learning and building.
+A student-focused project I'm developing while learning and improving my practical software development skills.
+
+### 📚 PoraPlan
+
+An academic mentorship project I'm building alongside my studies.
+
+More projects will be added as I continue learning and building.
 
 ---
 
-## 📈 My Learning Philosophy
+## 📖 My Learning Philosophy
 
-> Learn → Build → Make Mistakes → Improve → Repeat
+> **Learn → Build → Make Mistakes → Improve → Repeat**
 
-I believe consistent practice and real projects are the best ways to grow as a developer.
+I believe consistent practice and real projects are an important part of becoming a better developer.
 
 ---
 
 ## 🤝 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/md-farhad-molla/)
+
 ---
 
 ⭐ **Building myself and my skills, one project at a time.**
