@@ -1,83 +1,107 @@
-# Hi, I'm Farhad 👋
+# Hi, I'm Farhad Molla
 
-### CSE Undergraduate | Learning & Building
+### CSE Undergraduate | Aspiring Software Engineer | Builder
 
-I'm a Computer Science & Engineering student who enjoys learning through practice, projects, and experimentation.
+I'm a Computer Science & Engineering undergraduate, passionate about learning how technology works and building things that solve real problems.
 
-Currently, I'm strengthening my programming fundamentals and exploring software development step by step.
+I enjoy learning through hands-on practice, experimentation, and personal projects. Currently, I'm strengthening my programming fundamentals, exploring software development, and developing a deeper understanding of computer science.
 
----
-
-## 🚀 About Me
-
-* 🎓 Computer Science & Engineering Undergraduate
-* 💻 Building strong foundations in programming
-* 🔵 Currently practicing **C**
-* 🐍 Currently learning **Python**
-* 🌐 Learning **HTML & CSS**
-* 🔧 Learning and using **Git & GitHub**
-* 🧠 Interested in **Software Engineering and Data Science**
-* 🛠️ Enjoy building projects and learning from them
+My approach is simple: **Learn by building, improve through practice, and grow consistently.**
 
 ---
 
-## 🛠️ Technologies & Tools
+## About Me
 
-### Programming
+- Computer Science & Engineering undergraduate.
+- Interested in Software Engineering, Data Science, and problem-solving.
+- Strengthening programming fundamentals and algorithmic thinking.
+- Exploring Competitive Programming and practical software development.
+- Building projects to turn ideas into working solutions.
+- Interested in open-source contributions and collaborative development.
 
-![C](https://img.shields.io/badge/C-Programming-00599C?style=flat\&logo=c\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Programming-3776AB?style=flat\&logo=python\&logoColor=white)
+## Tech Stack & Tools
 
-### Web
+**Programming Languages**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### Tools
+**Web Technologies**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat\&logo=visualstudiocode\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
----
+**Tools & Platforms**
 
-## 🎯 Current Focus
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-* C Programming & Problem Solving
-* Python Programming
-* HTML & CSS
-* Git & GitHub
-* Programming Fundamentals
-* Building Practical Projects
-
----
-
-## 📌 Projects
-
-### 🍱 StudyLunch
-
-A student-focused project I'm developing while learning and improving my practical software development skills.
-
-### 📚 PoraPlan
-
-An academic mentorship project I'm building alongside my studies.
-
-More projects will be added as I continue learning and building.
+*Currently learning and improving my skills across these technologies.*
 
 ---
 
-## 📖 My Learning Philosophy
+## Current Learning Journey
 
-> **Learn → Build → Make Mistakes → Improve → Repeat**
+My current focus is on building a strong foundation in computer science while gradually exploring more advanced areas.
 
-I believe consistent practice and real projects are an important part of becoming a better developer.
+- **Programming:** Revisiting C fundamentals and learning C++.
+- **Problem Solving:** Developing algorithmic thinking and practicing competitive programming.
+- **Web Development:** Strengthening HTML and CSS fundamentals.
+- **Python:** Exploring programming applications and practical development.
+- **Developer Tools:** Improving my Git and GitHub workflow.
+- **Computer Science:** Building a deeper understanding of programming mathematics, data structures, and algorithms.
 
 ---
 
-## 🤝 Connect With Me
+## Projects
+
+### PoraPlan
+**Academic Mentorship & Personal Study Assistance Platform**
+
+An initiative I'm building to help students organize their learning through personalized study guidance, structured academic programs, mentorship, and progress tracking.
+
+The goal is to make learning more organized, focused, and manageable.
+
+### StudyLunch
+**Peer Learning Platform**
+
+A student-focused project designed to encourage collaborative learning and knowledge sharing through peer-based study sessions.
+
+Both projects are part of my journey of learning software development through real-world product building.
+
+---
+
+## Beyond Coding
+
+I believe becoming a good engineer involves more than just writing code.
+
+I'm also interested in:
+
+- Communication and public speaking.
+- Critical thinking and structured reasoning.
+- Learning through reading and experimentation.
+- Building useful products and contributing to communities.
+
+---
+
+## My Philosophy
+
+> Learn → Build → Experiment → Make Mistakes → Improve → Repeat.
+
+I believe meaningful progress comes from curiosity, consistency, and the willingness to keep learning.
+
+**Brick by brick.**
+
+---
+
+## Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/md-farhad-molla/)
 
+[GitHub](https://github.com/farhad1molla1)
+
 ---
 
-⭐ **Building myself and my skills, one project at a time.**
+*Always learning. Always building. Always improving.*
