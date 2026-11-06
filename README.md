@@ -1,10 +1,10 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F2027,50:203A43,100:2C5364&text=FARHAD%20MOLLA&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=CSE%20UNDERGRADUATE%20%7C%20ASPIRING%20SOFTWARE%20ENGINEER&descSize=13&descAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2E,50:123B5A,100:087E8B&height=220&section=header&text=Farhad%20Molla&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=CSE%20UNDERGRADUATE%20%7C%20ASPIRING%20SOFTWARE%20ENGINEER&descSize=15&descAlignY=58&animation=fadeIn" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Learning+%E2%80%A2+Building+%E2%80%A2+Improving;Exploring+Competitive+Programming;Turning+Ideas+Into+Projects;Always+Curious%2C+Always+Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Improving;Exploring+Software+Engineering;Practicing+Competitive+Programming;Turning+Ideas+Into+Projects" />
 
 <br/><br/>
 
@@ -17,136 +17,157 @@
 
 <br/><br/>
 
-**Building my skills, one project at a time.**
+*Building my skills, one project at a time.*
 
 </div>
 
 ---
 
-## 01. About Me
+## About Me
 
-```text
-Name        : Farhad Molla
-Education   : Computer Science & Engineering
-Interests   : Software Engineering, Data Science
-Focus       : Programming, Problem Solving & Development
-Mindset     : Learn by Building
-```
+I'm a Computer Science & Engineering undergraduate interested in understanding how technology works and building software that solves real problems.
 
-I'm a Computer Science & Engineering undergraduate passionate about understanding how technology works and building things that solve real problems.
+I enjoy learning through hands-on practice, experimentation, and personal projects. Rather than limiting myself to theory, I try to turn what I learn into something practical.
 
-I enjoy learning through hands-on practice, experimentation, and personal projects. My goal is to develop strong computer science fundamentals and gradually grow into a skilled software engineer.
+**A little about my journey:**
 
-- Strengthening programming fundamentals and logical thinking.
-- Exploring Competitive Programming and algorithms.
-- Learning software and web development.
-- Building practical projects and experimenting with new ideas.
+- Strengthening my programming and problem-solving fundamentals.
+- Exploring Software Engineering and Data Science.
+- Practicing Competitive Programming and algorithmic thinking.
+- Learning web development and modern development workflows.
+- Building independent projects and experimenting with ideas.
 - Interested in open-source contributions and collaborative development.
 
-## 02. Tech Stack & Tools
+---
+
+## Tech Stack & Tools
 
 <div align="center">
 
-**Programming Languages**
+### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" />
 
 <br/><br/>
 
-**Web Technologies**
+### Web Technologies
 
 <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
 
 <br/><br/>
 
-**Tools & Platforms**
+### Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 <br/><br/>
 
-<sub>Currently learning and continuously expanding my toolkit.</sub>
+<sub>Always learning and expanding my toolkit.</sub>
 
 </div>
-
-## 03. Current Learning Journey
-
-| Area | Current Focus |
-|:---|:---|
-| Programming | C, C++ and Python |
-| Problem Solving | Competitive Programming and algorithms |
-| Web Development | HTML and CSS |
-| Computer Science | Programming Mathematics, DSA fundamentals |
-| Developer Tools | Git and GitHub |
-| Long-term Interests | Software Engineering and Data Science |
-
-I'm focused on developing a strong foundation before moving toward more advanced concepts and technologies.
-
-## 04. Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/farhad1molla1/PoraPlan">
-<img src="https://img.shields.io/badge/PoraPlan-Explore%20Project-0BA7B4?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-### PoraPlan
-**Academic Mentorship & Personal Study Assistance Platform**
-
-An initiative I'm building to help students organize their learning through personalized study guidance, structured academic programs, mentorship, and progress tracking.
-
-**Focus Areas:** Product Development · Education Technology · Academic Mentorship
 
 ---
 
-<div align="center">
+## Current Learning Journey
 
-<img src="https://img.shields.io/badge/StudyLunch-Peer%20Learning-4C9F70?style=for-the-badge" />
+My current priority is to build strong fundamentals and develop the ability to solve problems independently.
 
-</div>
+| Area | Focus |
+|:---|:---|
+| Programming | C, C++ and Python |
+| Problem Solving | Competitive Programming |
+| Algorithms | Data Structures & Algorithms |
+| Web Development | HTML and CSS |
+| Developer Tools | Git and GitHub |
+| Computer Science | Programming Mathematics and fundamentals |
+| Long-term Interests | Software Engineering and Data Science |
 
-### StudyLunch
-**Peer Learning Platform**
+I prefer learning by understanding concepts, solving problems, experimenting with code, and building practical projects.
 
-A student-focused project designed to encourage collaborative learning and knowledge sharing through peer-based study sessions.
+---
 
-**Focus Areas:** Peer Learning · Web Development · Student Collaboration
+## Featured Projects
 
-*More projects and updates coming as I continue learning and building.*
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 05. GitHub Analytics
+<h3 align="center">PoraPlan</h3>
 
-<div align="center">
+<p align="center">
+<img src="https://img.shields.io/badge/EdTech-Academic%20Mentorship-0BA7B4?style=flat-square" />
+</p>
 
-<a href="https://github.com/farhad1molla1">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=farhad1molla1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+An academic mentorship and personal study assistance platform I'm building to make learning more organized and manageable.
+
+It focuses on personalized study guidance, structured academic programs, mentor support, assignments, evaluations, and student progress tracking.
+
+**Interests:** Product Development · EdTech · Software Engineering
+
+<p align="center">
+<a href="https://github.com/farhad1molla1/PoraPlan">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
 </a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">StudyLunch</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Platform-Peer%20Learning-4C9F70?style=flat-square" />
+</p>
+
+A student-focused peer-learning platform designed to encourage collaborative learning and knowledge sharing through peer-based study sessions.
+
+The idea is to make learning more interactive by helping students connect, collaborate, and learn together.
+
+**Interests:** Peer Learning · Web Development · Collaboration
+
+<p align="center">
+<sub>More project updates coming soon.</sub>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Activity
+
+<div align="center">
 
 <a href="https://github.com/farhad1molla1">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhad1molla1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://streak-stats.demolab.com?user=farhad1molla1&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="80%" />
 </a>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=farhad1molla1&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/farhad1molla1?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
-## 06. Beyond Coding
+---
+
+## Beyond Coding
 
 I believe becoming a good engineer involves more than just writing code.
 
-I'm also interested in:
+Outside programming, I'm interested in:
 
-- Communication and public speaking.
-- Critical thinking and structured reasoning.
-- Technology, innovation, and entrepreneurship.
-- Reading and exploring new perspectives.
-- Building useful products and contributing to communities.
+- **Communication:** Public speaking and presentation.
+- **Critical Thinking:** Structured reasoning and problem analysis.
+- **Reading:** Exploring literature, ideas, and new perspectives.
+- **Technology:** Innovation and building useful products.
+- **Personal Growth:** Developing discipline and learning consistently.
 
-## 07. My Philosophy
+---
+
+## My Philosophy
 
 <div align="center">
 
@@ -154,23 +175,24 @@ I'm also interested in:
 
 <br/>
 
-> "Brick by brick."
+### "Brick by brick."
 
-Every project is an opportunity to learn something new.  
-Every mistake is a chance to improve.
+Every project teaches something new.  
+Every mistake creates an opportunity to improve.  
+Every small step contributes to long-term growth.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:087E8B,50:123B5A,100:071A2E&height=110&section=footer" width="100%" />
+
+<br/>
+
+**Always learning. Always building. Always improving.**
 
 <br/>
 
 <a href="https://github.com/farhad1molla1">
-<img src="https://komarev.com/ghpvc/?username=farhad1molla1&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=farhad1molla1&style=flat-square&color=0E7490&label=PROFILE+VIEWS" />
 </a>
-
-<br/><br/>
-
-**Always learning. Always building. Always improving.**
 
 </div>
