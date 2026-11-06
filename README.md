@@ -1,6 +1,7 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1220,100:102A43&height=220&section=header&text=Md%20Farhad%20Molla&fontSize=54&fontColor=EAF2FF&fontAlignY=38&desc=CSE%20UNDERGRADUATE%20%7C%20ASPIRING%20SOFTWARE%20ENGINEER&descSize=14&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0F172A&height=220&section=header&text=Md%20Farhad%20Molla&fontSize=54&fontColor=EAF2FF&fontAlignY=38&desc=CSE%20UNDERGRADUATE%20%7C%20ASPIRING%20SOFTWARE%20ENGINEER&descSize=14&descAlignY=58&animation=fadeIn&v=3" width="100%" />
+
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Improving;Exploring+Software+Engineering;Practicing+Competitive+Programming;Turning+Ideas+Into+Projects" />
@@ -102,6 +103,7 @@ An academic mentorship and personal study assistance platform designed to make l
 </p>
 
 </td>
+
 <td width="50%" valign="top">
 
 <h3 align="center">StudyLunch</h3>
@@ -169,7 +171,7 @@ Every mistake is a chance to improve.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:102A43,50:0B1220,100:050816&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:020617&height=110&section=footer&v=3" width="100%" />
 
 <br/>
 
